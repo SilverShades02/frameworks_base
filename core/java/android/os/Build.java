@@ -54,7 +54,7 @@ public class Build {
     /**
      * @hide
      */
-    public static final String PIXYS_DISPLAY_VERSION = getString("ro.pixys.display.version");
+    public static final String WAVE_DISPLAY_VERSION = getString("ro.wave.display.version");
 
     /** The name of the overall product. */
     public static final String PRODUCT = getString("ro.product.name");

@@ -152,7 +152,7 @@ oneway interface IStatusBar
     void hideFingerprintDialog();
 
     /**
-     * Pixys
+     * Wave
      */
     void toggleCameraFlash();
 }
