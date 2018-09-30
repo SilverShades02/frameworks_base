@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.nitrogen;
+package com.android.internal.util.wave;
 
 import android.content.Context;
 import android.content.Intent;
@@ -38,7 +38,7 @@ import com.android.internal.statusbar.IStatusBarService;
 /**
  * Some custom utilities
  */
-public class NitrogenUtils {
+public class WaveUtils {
 
     public static final String INTENT_SCREENSHOT = "action_handler_screenshot";
     public static final String INTENT_REGION_SCREENSHOT = "action_handler_region_screenshot";

@@ -929,7 +929,7 @@ public class Build {
     public static final String FINGERPRINT = deriveFingerprint();
 
     /** @hide */
-    public static final String NITROGEN_FINGERPRINT = SystemProperties.get("org.nitrogen.fingerprint",
+    public static final String WAVE_FINGERPRINT = SystemProperties.get("org.wave.fingerprint",
             deriveFingerprint());
 
     /**

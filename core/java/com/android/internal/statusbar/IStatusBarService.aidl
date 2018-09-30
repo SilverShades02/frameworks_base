@@ -103,7 +103,7 @@ interface IStatusBarService
     void hideFingerprintDialog();
 
     /**
-     * Nitrogen
+     * Wave
      */
     void toggleCameraFlash();
     void toggleRecentApps();

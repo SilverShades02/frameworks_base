@@ -16,7 +16,7 @@
  *
  */
 
-package com.android.internal.util.nitrogen;
+package com.android.internal.util.wave;
 
 import android.app.Activity;
 import android.app.ActivityOptions;
